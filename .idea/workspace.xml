@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21208008-0387-4d55-a4a7-16ab2a2544b2" name="Default Changelist" comment="" />
+    <list default="true" id="21208008-0387-4d55-a4a7-16ab2a2544b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/projects/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/CollectionsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/CollectionsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/MapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/SetApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/za/ac/cput/projects/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/za/ac/cput/projects/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/projects/AppTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +22,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/projects/CollectionsApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="69">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#160#168#0" expanded="true" />
+                <element signature="e#608#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/projects/CollectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1185#1193#0" expanded="true" />
+                <element signature="e#2032#2040#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -33,6 +70,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/SetApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/MapApp.java" />
         <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/projects/CollectionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/projects/CollectionsApp.java" />
       </list>
     </option>
@@ -67,6 +106,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -137,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551554745483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551564559662" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-bash.exe" />
@@ -165,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.testMap">
+  <component name="RunManager" selected="JUnit.CollectionTest.myList">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Datastructure" />
       <extension name="coverage">
@@ -177,22 +217,6 @@
       <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
       <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.AppTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.projects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.AppTest" />
-      <option name="METHOD_NAME" value="testList" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,7 +237,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
@@ -222,14 +246,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.AppTest" />
-      <option name="METHOD_NAME" value="testSet" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.CollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.myCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.CollectionTest" />
+      <option name="METHOD_NAME" value="myCollection" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="za.ac.cput.projects in Datastructure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionTest.myList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
@@ -238,18 +277,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.CollectionTest" />
+      <option name="METHOD_NAME" value="myList" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CollectionTest.myList" />
+        <item itemvalue="JUnit.CollectionTest.myCollection" />
+        <item itemvalue="JUnit.CollectionTest" />
         <item itemvalue="JUnit.AppTest.testMap" />
         <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="JUnit.AppTest.testSet" />
-        <item itemvalue="JUnit.za.ac.cput.projects in Datastructure" />
-        <item itemvalue="JUnit.AppTest.testList" />
       </list>
     </recent_temporary>
   </component>
@@ -264,23 +305,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551540346779</updated>
       <workItem from="1551540356865" duration="13512000" />
-      <workItem from="1551556882439" duration="532000" />
+      <workItem from="1551556882439" duration="7522000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_testSet - 2019.03.02 at 19h 53m 01s.xml">
-      <configuration name="AppTest.testSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testSet - 2019.03.02 at 19h 53m 29s.xml">
-      <configuration name="AppTest.testSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testMap - 2019.03.02 at 20h 06m 09s.xml">
-      <configuration name="AppTest.testMap" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_testMap - 2019.03.02 at 20h 06m 54s.xml">
-      <configuration name="AppTest.testMap" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest - 2019.03.02 at 20h 07m 38s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
@@ -299,9 +328,21 @@
     <history-entry file="AppTest_testMap - 2019.03.02 at 20h 15m 22s.xml">
       <configuration name="AppTest.testMap" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CollectionTest_myCollection - 2019.03.02 at 23h 45m 35s.xml">
+      <configuration name="CollectionTest.myCollection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTest - 2019.03.02 at 23h 55m 28s.xml">
+      <configuration name="CollectionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTest_myCollection - 2019.03.03 at 00h 00m 47s.xml">
+      <configuration name="CollectionTest.myCollection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionTest_myList - 2019.03.03 at 00h 04m 40s.xml">
+      <configuration name="CollectionTest.myList" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14044000" />
+    <option name="totallyTimeSpent" value="21034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -315,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43207857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31423897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,20 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/projects/MapApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,10 +457,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/projects/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/projects/CollectionsApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="69">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#160#168#0" expanded="true" />
+            <element signature="e#608#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/projects/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1185#1193#0" expanded="true" />
+            <element signature="e#2032#2040#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
