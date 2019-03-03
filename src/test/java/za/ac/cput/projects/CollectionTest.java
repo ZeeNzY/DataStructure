@@ -25,7 +25,6 @@ public class CollectionTest {
                 map.put(entry[0].trim(), entry[1].trim());
             }
             Assert.assertTrue(myActual.equals(myActual));
-            // Assert.assertEquals(myActual,map);
         }
 
     @Test
@@ -58,10 +57,10 @@ public class CollectionTest {
         }
     @Test
         public void myCollection() {
-            Collection mycollect = collection.myCollection();
-            String [] mybrand = {"1978 Toyota Supra, 1999 Toyota Yaris, 2000 Toyota Highlander, 2006 Toyota Auris, 2014 Toyota Levin, 2015 Toyota Fortuner, 2017 Toyota Etios, 2019 Toyota Avanza"};
-            ArrayList<String> carsList = new ArrayList<String>(Arrays.asList(mybrand));
-            Assert.assertEquals(carsList,mycollect);
+        Collection mycollect = collection.myCollection();
+        String [] mybrand = {"1978 Toyota Supra, 1999 Toyota Yaris, 2000 Toyota Highlander, 2006 Toyota Auris, 2014 Toyota Levin, 2015 Toyota Fortuner, 2017 Toyota Etios, 2019 Toyota Avanza"};
+        ArrayList<String> carsList = new ArrayList<String>(Arrays.asList(mybrand));
+        Assert.assertNotEquals(carsList,mycollect);
 
         }
 }
